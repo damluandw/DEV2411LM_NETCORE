@@ -12,3 +12,4 @@ D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02\obj\Debug\net8.0\r
 D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02\obj\Debug\net8.0\Lesson02.pdb
 D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02\obj\Debug\net8.0\Lesson02.genruntimeconfig.cache
 D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02\obj\Debug\net8.0\ref\Lesson02.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02\obj\Debug\net8.0\Lesson02.sourcelink.json

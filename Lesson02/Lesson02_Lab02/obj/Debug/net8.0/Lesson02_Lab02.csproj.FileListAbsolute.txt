@@ -1,0 +1,15 @@
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\bin\Debug\net8.0\Lesson02_Lab02.exe
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\bin\Debug\net8.0\Lesson02_Lab02.deps.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\bin\Debug\net8.0\Lesson02_Lab02.runtimeconfig.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\bin\Debug\net8.0\Lesson02_Lab02.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\bin\Debug\net8.0\Lesson02_Lab02.pdb
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.AssemblyInfoInputs.cache
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.AssemblyInfo.cs
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.csproj.CoreCompileInputs.cache
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.sourcelink.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\refint\Lesson02_Lab02.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.pdb
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\Lesson02_Lab02.genruntimeconfig.cache
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson02\Lesson02_Lab02\obj\Debug\net8.0\ref\Lesson02_Lab02.dll
