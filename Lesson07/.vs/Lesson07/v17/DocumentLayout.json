@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83041038-FE4B-4AA4-AFC3-EF49ECF74436}|Lesson07_Exception\\Lesson07_Exception.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\lesson07\\lesson07_exception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83041038-FE4B-4AA4-AFC3-EF49ECF74436}|Lesson07_Exception\\Lesson07_Exception.csproj|solutionrelative:lesson07_exception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83041038-FE4B-4AA4-AFC3-EF49ECF74436}|Lesson07_Exception\\Lesson07_Exception.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\lesson07\\lesson07_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83041038-FE4B-4AA4-AFC3-EF49ECF74436}|Lesson07_Exception\\Lesson07_Exception.csproj|solutionrelative:lesson07_exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson07\\Lesson07_Exception\\Product.cs",
+              "RelativeDocumentMoniker": "Lesson07_Exception\\Product.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson07\\Lesson07_Exception\\Product.cs",
+              "RelativeToolTip": "Lesson07_Exception\\Product.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:16:37.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson07\\Lesson07_Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson07_Exception\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson07\\Lesson07_Exception\\Program.cs",
+              "RelativeToolTip": "Lesson07_Exception\\Program.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAI0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:59:41.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
