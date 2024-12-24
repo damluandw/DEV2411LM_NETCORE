@@ -1,0 +1,15 @@
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.AssemblyInfoInputs.cache
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.AssemblyInfo.cs
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.csproj.CoreCompileInputs.cache
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.sourcelink.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\bin\Debug\net8.0\QuanLySach.exe
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\bin\Debug\net8.0\QuanLySach.deps.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\bin\Debug\net8.0\QuanLySach.runtimeconfig.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\bin\Debug\net8.0\QuanLySach.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\bin\Debug\net8.0\QuanLySach.pdb
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\refint\QuanLySach.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.pdb
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\QuanLySach.genruntimeconfig.cache
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\Lesson09\QuanLySach\obj\Debug\net8.0\ref\QuanLySach.dll
