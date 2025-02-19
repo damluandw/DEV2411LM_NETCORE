@@ -1,0 +1,110 @@
+﻿@{
+    ViewData["Title"] = "Cách sử dụng Razor";
+}
+
+<!-- Single statement block-->
+@{
+    var total = 70000;
+}
+@{
+    string myMessage = "Biết người là trí, bản thân mới là trí tuệ thật sự"+
+                        "Thắng người là sự mạnh mẽ, thắng bản thân mới là sức mạnh thực sự";
+}
+
+@* @section section1{
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">NETCORE_Lesson02</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+} *@
+
+<!-- Razor inline-->
+<p>
+    Tài khoản của bạn đang có: @total
+</p>
+<p>
+    Câu nói để đời của Lão Tử: @myMessage
+</p>
+
+<!-- Multi statement block-->
+@{
+    var greeting = "Chúc bạn thành công!";
+    var weekDay = DateTime.Now.DayOfWeek;
+    var greetingMessage = greeting + " Hôm nay là ngày: " + weekDay;
+}
+
+<p>Lời chúc: @greetingMessage</p>
+
+<h2>Cấu trúc IF ELSE</h2>
+<!--  Cách 1: -->
+@if (@total >= 5000)
+{
+    <p>Bạn nằm trong top 30% người giàu có nhất thế giới</p>
+}
+else if (@total >= 3000)
+{
+    <p>Bạn nằm trong top 50% người giàu có nhất thế giới</p>
+}
+else
+{
+    <p>Chưa có số liệu thống kê</p>
+}
+
+<!--  Cách 2: -->
+
+@{
+
+    if (total % 2 == 0)
+    {
+        <p>Số dư của bạn là số dư chẵn</p>
+    }
+    else
+    {
+        <p>Số dư của bạn là số dư lẻ</p>
+    }
+
+}
+<h2>Vòng lặp for/while/do..while,...</h2>
+@{
+    for(int i=0; i<10; i++)
+    {
+        if (i % 2==0)
+        {
+            <span class="btn btn-primary">
+                @i
+            </span>
+        }
+        else
+        {
+            <span class="btn btn-danger">
+                @i
+            </span>
+        }
+    }
+    <hr />
+    string[] imgs = ["https://cellphones.com.vn/sforum/wp-content/uploads/2024/02/anh-avatar-cute-100.jpg", "https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Image%20FP_2024/avatar-cute-7.jpg", "https://i.pinimg.com/736x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg", "https://cellphones.com.vn/sforum/wp-content/uploads/2024/02/anh-avatar-cute-95.jpg"];
+}
+
+@foreach(var img in imgs)
+{
+    <img src="@img" />
+}
+@Html.Partial("_ProductsPartialView")
+@Html.Partial("_Products1PartialView")

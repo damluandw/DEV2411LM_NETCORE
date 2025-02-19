@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var member = Model as NETCORE_Lesson03.Models.DataModels.Member;
+}
+<h2>Thông tin member thông Model truyền từ View</h2>
+<p>Member ID : @Model.Id</p>
+<p>Member Name : @Model.Name</p>
+<p>Member Phone :@Model.Phone</p>
+<p>Member Description : @Model.Description</p>
+<p>Member Address : @Model.Address</p>
+<p>Member City : @Model.City</p>
+<p>Member Region : @Model.Region</p>
+<hr />
+<h2>Thông tin member thông Model truyền từ View ép kiểu về Member</h2>
+<p>Member ID : @member.Id</p>
+<p>Member Name : @member.Name</p>
+<p>Member Phone :@member.Phone</p>
+<p>Member Description : @member.Description</p>
+<p>Member Address : @member.Address</p>
+<p>Member City : @member.City</p>
+<p>Member Region : @member.Region</p>

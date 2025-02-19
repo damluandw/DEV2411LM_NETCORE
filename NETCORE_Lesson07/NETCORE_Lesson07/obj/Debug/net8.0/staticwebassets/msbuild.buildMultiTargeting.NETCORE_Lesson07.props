@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NETCORE_Lesson07.props" />
+</Project>

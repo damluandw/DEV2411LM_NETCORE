@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NETCORE_Lesson05", "NETCORE_Lesson05\NETCORE_Lesson05.csproj", "{B9907919-BC12-405A-B278-6B84DED0A158}"
+	ProjectSection(ProjectDependencies) = postProject
+		{72E6388C-89AC-4272-BB4F-D1783E478E04} = {72E6388C-89AC-4272-BB4F-D1783E478E04}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETCORE_Lesson05_CodeFirst", "NETCORE_Lesson05_CodeFirst\NETCORE_Lesson05_CodeFirst.csproj", "{72E6388C-89AC-4272-BB4F-D1783E478E04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9907919-BC12-405A-B278-6B84DED0A158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9907919-BC12-405A-B278-6B84DED0A158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9907919-BC12-405A-B278-6B84DED0A158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9907919-BC12-405A-B278-6B84DED0A158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E6388C-89AC-4272-BB4F-D1783E478E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E6388C-89AC-4272-BB4F-D1783E478E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E6388C-89AC-4272-BB4F-D1783E478E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E6388C-89AC-4272-BB4F-D1783E478E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14777A1B-EA11-4D42-B7AF-12C111A1EB36}
+	EndGlobalSection
+EndGlobal

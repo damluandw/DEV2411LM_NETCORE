@@ -1,0 +1,7 @@
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\NETCORE_Lesson01\NETCORE_Lesson01_MVC\obj\Release\net8.0\PubTmp\Out\NETCORE_Lesson01_MVC.exe
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\NETCORE_Lesson01\NETCORE_Lesson01_MVC\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\NETCORE_Lesson01\NETCORE_Lesson01_MVC\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\NETCORE_Lesson01\NETCORE_Lesson01_MVC\obj\Release\net8.0\PubTmp\Out\NETCORE_Lesson01_MVC.dll
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\NETCORE_Lesson01\NETCORE_Lesson01_MVC\obj\Release\net8.0\PubTmp\Out\NETCORE_Lesson01_MVC.deps.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\NETCORE_Lesson01\NETCORE_Lesson01_MVC\obj\Release\net8.0\PubTmp\Out\NETCORE_Lesson01_MVC.runtimeconfig.json
+D:\Devmaster\DEV_Students\DEV2411LM_NETCORE\NETCORE_Lesson01\NETCORE_Lesson01_MVC\obj\Release\net8.0\PubTmp\Out\NETCORE_Lesson01_MVC.pdb

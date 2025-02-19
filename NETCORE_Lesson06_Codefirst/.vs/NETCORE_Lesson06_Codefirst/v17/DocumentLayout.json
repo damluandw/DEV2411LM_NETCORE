@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|d:\\devmaster\\duan\\qlvtth\\code\\netcore_lesson06_codefirst\\netcore_lesson06_layout\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\netcore_lesson06_layout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\netcore_lesson06_layout.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\netcore_lesson06_layout\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553FA33D-6448-446C-AAB1-8AD1348BBA11}|NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj|solutionrelative:netcore_lesson06_layout\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:09:33.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:09:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:09:11.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutHome.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\Shared\\_LayoutHome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:35:41.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:11:31.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:34:20.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:39:59.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:42:32.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:35:44.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:41:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:14:20.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Program.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Program.cs",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:15:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-14T13:39:11.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\appsettings.json",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\appsettings.json",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\appsettings.json",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T13:15:12.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:20:48.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Models\\Products.cs",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Models\\Products.cs",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:38:46.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NETCORE_Lesson06_Layout",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\NETCORE_Lesson06_Layout.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T13:04:41.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:12:59.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:34:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:15:15.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:43:23.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:44:14.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson06_Layout\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Devmaster\\DuAn\\QLVTTH\\Code\\NETCORE_Lesson06_Codefirst\\NETCORE_Lesson06_Layout\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson06_Layout\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T12:42:10.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

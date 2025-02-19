@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NETCORE_Lesson05_CodeFirst.props" />
+</Project>

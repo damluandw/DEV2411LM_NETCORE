@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\netcore_lesson01_mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\netcore_lesson01_mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\views\\product\\listproduct2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\views\\product\\listproduct2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\views\\product\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\views\\product\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\views\\product\\demodulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\views\\product\\demodulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson01\\netcore_lesson01_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF9A74B4-84DB-4414-A8F4-449996EFE640}|NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj|solutionrelative:netcore_lesson01_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:47:08.916Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T14:24:23.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NETCORE_Lesson01_MVC",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\NETCORE_Lesson01_MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T14:24:19.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Program.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Program.cs",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:08:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListProduct2.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct2.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct2.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct2.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:48:58.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:32:22.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DemoDuLieu.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Product\\DemoDuLieu.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Views\\Product\\DemoDuLieu.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Product\\DemoDuLieu.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Views\\Product\\DemoDuLieu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T13:30:52.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Models\\Product.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Models\\Product.cs",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:12:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T12:50:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListProduct.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Views\\Product\\ListProduct.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T12:49:39.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson01_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson01\\NETCORE_Lesson01_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NETCORE_Lesson01_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:45:39.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

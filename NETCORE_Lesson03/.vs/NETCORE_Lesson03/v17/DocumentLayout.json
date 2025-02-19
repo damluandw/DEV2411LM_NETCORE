@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson03\\netcore_lesson03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|solutionrelative:netcore_lesson03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson03\\netcore_lesson03\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|solutionrelative:netcore_lesson03\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson03\\netcore_lesson03\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|solutionrelative:netcore_lesson03\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson03\\netcore_lesson03\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|solutionrelative:netcore_lesson03\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson03\\netcore_lesson03\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|solutionrelative:netcore_lesson03\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson03\\netcore_lesson03\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|solutionrelative:netcore_lesson03\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\netcore_lesson03\\netcore_lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B1B30C-DA19-4612-848A-C3716085C9C8}|NETCORE_Lesson03\\NETCORE_Lesson03.csproj|solutionrelative:netcore_lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T14:03:46.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson03\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson03\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T14:03:35.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson03\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson03\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T14:03:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson03\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson03\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T14:02:37.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson03\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson03\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T14:01:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "NETCORE_Lesson03\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "NETCORE_Lesson03\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T14:00:51.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NETCORE_Lesson03\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\NETCORE_Lesson03\\NETCORE_Lesson03\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NETCORE_Lesson03\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:56:51.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

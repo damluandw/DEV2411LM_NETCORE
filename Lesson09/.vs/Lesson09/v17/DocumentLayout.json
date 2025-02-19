@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\lesson09\\quanlysach\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\quanlysach\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\lesson09\\quanlysach\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\quanlysach\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|d:\\devmaster\\dev_students\\dev2411lm_netcore\\lesson09\\quanlysach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\quanlysach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39F40AB1-5865-42D7-9B2C-A1C3C3842A20}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,47 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sach.cs",
-              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\Sach.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\Sach.cs",
-              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\Sach.cs",
-              "RelativeToolTip": "QuanLySach\\Sach.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:32:24.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NhaXuatBan.cs",
-              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\NhaXuatBan.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\NhaXuatBan.cs",
-              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\NhaXuatBan.cs",
-              "RelativeToolTip": "QuanLySach\\NhaXuatBan.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:40:15.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TacGia.cs",
-              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\TacGia.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\TacGia.cs",
-              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\TacGia.cs",
-              "RelativeToolTip": "QuanLySach\\TacGia.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:37:41.107Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -80,6 +41,54 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\Sach.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\Sach.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\Sach.cs",
+              "RelativeToolTip": "QuanLySach\\Sach.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:32:24.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhaXuatBan.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\NhaXuatBan.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\NhaXuatBan.cs",
+              "RelativeToolTip": "QuanLySach\\NhaXuatBan.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:40:15.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TacGia.cs",
+              "DocumentMoniker": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\TacGia.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\TacGia.cs",
+              "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\TacGia.cs",
+              "RelativeToolTip": "QuanLySach\\TacGia.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:37:41.107Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -87,7 +96,7 @@
               "RelativeDocumentMoniker": "QuanLySach\\Program.cs",
               "ToolTip": "D:\\Devmaster\\DEV_Students\\DEV2411LM_NETCORE\\Lesson09\\QuanLySach\\Program.cs",
               "RelativeToolTip": "QuanLySach\\Program.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAADwv5IAAAAiAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswEUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T13:32:13.049Z",
               "EditorCaption": ""
