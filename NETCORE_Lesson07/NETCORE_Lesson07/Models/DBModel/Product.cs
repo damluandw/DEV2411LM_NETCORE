@@ -14,7 +14,7 @@ public partial class Product
 
     public double? Price { get; set; }
 
-    [DataType(DataType.Upload)]
+    //[DataType(DataType.Upload)]
     public string? Images { get; set; }
 
     public int? CategoryId { get; set; }

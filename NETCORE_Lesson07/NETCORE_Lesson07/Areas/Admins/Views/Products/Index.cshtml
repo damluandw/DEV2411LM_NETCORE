@@ -1,12 +1,18 @@
-﻿@model IEnumerable<NETCORE_Lesson07.Models.DBModel.Product>
-
+﻿@* @model IEnumerable<NETCORE_Lesson07.Models.DBModel.Product> *@
+@model X.PagedList.IPagedList<NETCORE_Lesson07.Models.DBModel.Product>
+@using X.PagedList.Mvc.Core;
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmins.cshtml";
 }
 
 <h1>Index</h1>
-
+<form asp-action="" method="get">
+    <div class="input-group mb-3">
+        <input type="text" class="form-control" name="name" value="@ViewBag.Name" placeholder="Tìm kiếm">
+        <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Tìm kiếm</button>
+    </div>
+</form>
 <p>
     <a asp-action="Create">Create New</a>
 </p>
@@ -14,19 +20,19 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Name)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Name)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Note)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Note)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Price)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Price)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Images)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Images)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Category)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Category)
             </th>
             <th></th>
         </tr>
@@ -59,3 +65,10 @@
 }
     </tbody>
 </table>
+<hr />
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions
+{
+    LiElementClasses =new string[]{"page-item"},
+    PageClasses = new string[]{"page-link"}
+})

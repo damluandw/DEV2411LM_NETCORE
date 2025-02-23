@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using NETCORE_Lesson07.Models.DBModel;
+using X.PagedList.Extensions;
 
 namespace NETCORE_Lesson07.Areas.Admins.Controllers
 {
@@ -20,10 +21,24 @@ namespace NETCORE_Lesson07.Areas.Admins.Controllers
         }
 
         // GET: Admins/Products
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string name, int page =1)
         {
-            var databaseFirstContext = _context.Products.Include(p => p.Category);
-            return View(await databaseFirstContext.ToListAsync());
+            var limit = 5;
+
+            ViewBag.Name = name;
+            if (string.IsNullOrEmpty(name))
+            {
+                var databaseFirstContext =  _context.Products.Include(p => p.Category)
+                    .OrderBy(x => x.Id).ToPagedList(page, limit);
+                return View(databaseFirstContext);
+            }
+            else
+            {
+                var databaseFirstContext = _context.Products.Where(p=> p.Name.ToUpper().Contains(name.ToUpper())).Include(p => p.Category)
+                    .OrderBy(x => x.Id).ToPagedList(page, limit);
+                return View(databaseFirstContext);
+            }
+            
         }
 
         // GET: Admins/Products/Details/5
@@ -105,13 +120,13 @@ namespace NETCORE_Lesson07.Areas.Admins.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Note,Price,Images,CategoryId")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Note,Price,Images,CategoryId")] Product product, string img)
         {
             if (id != product.Id)
             {
                 return NotFound();
             }
-
+                    
             if (ModelState.IsValid)
             {
                 try
@@ -120,7 +135,6 @@ namespace NETCORE_Lesson07.Areas.Admins.Controllers
                     if (files.Count > 0 && files[0].Length > 0)
                     {
                         var file = files[0];
-
                         var fileName = Path.GetFileName(file.FileName);
                         //var fileName = file.FileName;
                         var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\products", fileName);
@@ -131,12 +145,10 @@ namespace NETCORE_Lesson07.Areas.Admins.Controllers
                         }
                     }
                     else
-                    {
-                        product.Images = _context.Products.FirstOrDefault(p=>p.Id ==id).Images;
+                    {                       
+                        product.Images = img; // gán ảnh nếu k có file được truyền lên
                     }
-                    //var pro = product;
-                    _context.Update(product);
-                    _context.Entry(product).State = EntityState.Modified/*;*/
+                    _context.Update(product);                 
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
