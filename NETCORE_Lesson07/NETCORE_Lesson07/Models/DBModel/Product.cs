@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 
 namespace NETCORE_Lesson07.Models.DBModel;
 
@@ -14,7 +13,6 @@ public partial class Product
 
     public double? Price { get; set; }
 
-    //[DataType(DataType.Upload)]
     public string? Images { get; set; }
 
     public int? CategoryId { get; set; }

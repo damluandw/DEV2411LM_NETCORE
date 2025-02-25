@@ -2,8 +2,8 @@
 
 namespace NETCORE_Lesson07.Areas.Admins.Controllers
 {
-    [Area("Admins")]
-    public class DashboardController : Controller
+    //[Area("Admins")]
+    public class DashboardController : BaseController
     {
         public IActionResult Index()
         {
